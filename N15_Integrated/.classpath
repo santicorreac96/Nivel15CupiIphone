@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="lib/ant-javafx.jar"/>
+	<classpathentry kind="lib" path="lib/deploy.jar"/>
+	<classpathentry kind="lib" path="lib/javafx-doclet.jar"/>
+	<classpathentry kind="lib" path="lib/javafx-mx.jar"/>
+	<classpathentry kind="lib" path="lib/javaws.jar"/>
+	<classpathentry kind="lib" path="lib/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="lib/jfxrt.jar"/>
+	<classpathentry kind="lib" path="lib/org.hamcrest.core_1.3.0.v201303031735.jar"/>
+	<classpathentry kind="lib" path="lib/plugin.jar"/>
+	<classpathentry kind="lib" path="lib/cupiphoneSDK.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
