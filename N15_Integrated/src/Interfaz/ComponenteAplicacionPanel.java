@@ -44,7 +44,7 @@ public class ComponenteAplicacionPanel extends JPanel implements ActionListener
 	
 	public void crearMapa() throws Exception
 	{
-		mundo.construirMapaPosiciones();
+		mundo.construirMapaPosActual();
 		new Mapa(pane, "mapa").start();
 	}
 	
